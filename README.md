@@ -1,4 +1,4 @@
-# Virtual-Tourist-Udacity
+# VirtualTourist
 An app that allows users specify travel locations around the world, and create virtual photo albums for each location. The locations and photo albums will be stored in Core Data.
 
 <img width="291" alt="screenshot 2018-10-12 at 18 02 50" src="https://user-images.githubusercontent.com/28652344/46883669-b7b82300-ce4a-11e8-9cd0-fd303e7f34ee.png"> <img width="291" alt="screenshot 2018-10-12 at 18 03 59" src="https://user-images.githubusercontent.com/28652344/46883680-bb4baa00-ce4a-11e8-812f-cccc55e89a9e.png">
